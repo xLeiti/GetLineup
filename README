@@ -1,0 +1,4 @@
+Small config to generate yaw pitch values from getpos:
+
+```alias getlineup "exec_async GetLineup;"```
+```bind <key> getlineup"```
